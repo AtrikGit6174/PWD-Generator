@@ -27,4 +27,4 @@ Plans to expand (not yet available):
 4. _YOU_, the reader, for your time and patience and interest!
 
 ****************************************************************************************************************************************
-  
+<script src="https://gist.github.com/AtrikGit6174/f680619187b0d20690baf52b69c6f2df.js"></script>
