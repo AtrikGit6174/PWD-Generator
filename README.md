@@ -1,9 +1,12 @@
 # PWD-Generator
 A simple Python project to generate passwords based on user constraints.
 
-Enter the number of characters to get started. 
-Choose and enter constraints like number of capital letters, small letters, special chars or digits.
-Checks are provided so that no. of constrained chars <= total no. of chars. Re-entry in case of mistake is allowed.
+<ul>
+  Enter the number of characters to get started.
+  </br>Choose and enter constraints like number of capital letters, small letters, special chars or digits.
+  </br>Checks are provided so that (no. of constrained chars <= total no. of chars). Re-entry in case of mistake is allowed.
+</ul>
+  
 Get your required random password.
 
 Plans to expand (not yet available):
