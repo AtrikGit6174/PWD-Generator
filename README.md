@@ -2,9 +2,9 @@
 A simple Python project to generate passwords based on user constraints.
 
 <ul>
-  Enter the number of characters to get started.
-  </br>Choose and enter constraints like number of capital letters, small letters, special chars or digits.
-  </br>Checks are provided so that (no. of constrained chars <= total no. of chars). Re-entry in case of mistake is allowed.
+  <b>Step 1</b>. Enter the number of characters to get started.
+  </br><b>Step 2</b>. Choose and enter constraints like number of capital letters, small letters, special chars or digits.
+  </br><b>Step 3</b>. Checks are provided so that (no. of constrained chars <= total no. of chars). Re-entry in case of mistake is allowed.
 </ul>
   
 Get your required random password.
