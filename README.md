@@ -6,7 +6,7 @@ A simple Python project to generate passwords based on user constraints.
 
 Dated: 01.07.2021
 
-This project is brought to you by **[Atrik Ray](https://github.com/AtrikGit6174]**.
+This project is brought to you by **[Atrik Ray](https://github.com/AtrikGit6174)**.
 As of now, I am a CSE undergrad, expected to graduate by 2023.
 
 * Step 1. (Required) Enter the number of characters to get started.
