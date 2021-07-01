@@ -33,3 +33,6 @@ Plans to expand (not yet available):
 ****************************************************************************************************************************************
 <script src="https://gist.github.com/AtrikGit6174/9c179e14936479f08950244d8b457e26.js"></script>
 
+
+&nbsp; &nbsp;
+<p align= "center"><a href="https://github.com/atrikgit6174"><img src= "https://github.com/atrikgit6174.png" width= 200px height= 200px></a></p>
