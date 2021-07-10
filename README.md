@@ -4,7 +4,7 @@ A simple Python project to generate passwords based on user constraints.
 * Launched at: [https://atrikgit6174.github.io/PWD-Generator](https://atrikgit6174.github.io/PWD-Generator)
 * [Google Colaboratory](https://colab.research.google.com/github/AtrikGit6174/PWD-Generator/blob/main/PWD_Generator.ipynb)
 
-Dated: 01.07.2021
+Dated: 10.07.2021
 
 This project is brought to you by **[Atrik Ray](https://github.com/AtrikGit6174)**.
 As of now, I am a CSE undergrad, expected to graduate by 2023.
