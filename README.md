@@ -30,7 +30,7 @@ Plans to expand (not yet available):
 	* She is available @ [https://github.com/Meghna180401](https://github.com/Meghna180401)
 3. _Tishya Tripathi_, for being a tester and his valuable inputs.
 	* He is available @ [https://github.com/tishya-tripathi](https://github.com/tishya-tripathi)
-4. _Gayathri MS_, for being a tester and her valuable inputs.
+4. _Gayathri MS_, for being a tester and her valuable inputs. She pointed an important bug out.
 	* She is available @ [https://github.com/gayathri-ms](https://github.com/gayathri-ms)
 5. _Manas Sahu_, for being a tester and his valuable inputs.
 	* He is available @ [https://github.com/Zangetsu112](https://github.com/Zangetsu112)
