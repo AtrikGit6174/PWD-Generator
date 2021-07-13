@@ -1,8 +1,10 @@
 # Welcome to PWD-Generator
 A simple Python project to generate passwords based on user constraints.
 
+* [GitHub Repo](https://github.com/AtrikGit6174/PWD-Generator)
 * Launched at: [https://atrikgit6174.github.io/PWD-Generator](https://atrikgit6174.github.io/PWD-Generator)
-* [Google Colaboratory](https://colab.research.google.com/github/AtrikGit6174/PWD-Generator/blob/main/PWD_Generator.ipynb)
+* [Google Colaboratory](https://colab.research.google.com/github/AtrikGit6174/PWD-Generator/blob/main/PWD_Generator.ipynb)- Click here to use it! 
+(Or scroll down and Open In Colab)
 
 Dated: 10.07.2021
 
