@@ -1,5 +1,5 @@
 # Welcome to PWD-Generator
-A simple Python project to generate passwords based on user constraints.
+A personality Python project to generate passwords based on user constraints.
 
 * [GitHub Repo](https://github.com/AtrikGit6174/PWD-Generator)
 * Launched at: [https://atrikgit6174.github.io/PWD-Generator](https://atrikgit6174.github.io/PWD-Generator)
