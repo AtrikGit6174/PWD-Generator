@@ -8,7 +8,7 @@ A personal Python project to generate passwords based on user constraints.
 
 Feel free to edit the Google Colab blob, it opens in playground mode, so it doesn't affect the main code.
 
-Dated: 10.07.2021
+Dated: 01.11.2021
 
 This project is brought to you by **[Atrik Ray](https://github.com/AtrikGit6174)**.
 As of now, I am a CSE undergrad, expected to graduate by 2023.
@@ -24,26 +24,26 @@ Get your required random password.
 * Step 4. (Optional) Enter whether or not to scramble your generated password more. Re-entry in case of mistake is allowed.
 * Step 5. (Optional) Enter whether or not to generate more passwords.
 
-
-Plans to expand (not yet available):
-1. Based on user requirement, save the passwords in a text file with user-provided label.
+A lot more testing conditions have been implemented to ease user engagement.
 
 ## Credits
 1. _Google Colab team_, for their amazing IPython notebook tool!
-2. _Meghna Dutta_, for being the second tester after me and helping me debug, and for her motivation 😄
+2. _Ayushman Sen_, for implementing testing conditions and working on unravelling the GitHub collaborating process. 😄
+	* He is available @ [https://github.com/AyushMansen](https://github.com/AyushMansen)
+4. _Meghna Dutta_, for being the second tester after me and helping me debug, and for her motivation 😄
 	* She is available @ [https://github.com/Meghna180401](https://github.com/Meghna180401)
-3. _Tishya Tripathi_, for being a tester and his valuable inputs.
+5. _Tishya Tripathi_, for being a tester and his valuable inputs.
 	* He is available @ [https://github.com/tishya-tripathi](https://github.com/tishya-tripathi)
-4. _Gayathri MS_, for being a tester and her valuable inputs. She pointed an important bug out.
+6. _Gayathri MS_, for being a tester and her valuable inputs. She pointed an important bug out.
 	* She is available @ [https://github.com/gayathri-ms](https://github.com/gayathri-ms)
-5. _Manas Sahu_, for being a tester and his valuable inputs.
+7. _Manas Sahu_, for being a tester and his valuable inputs.
 	* He is available @ [https://github.com/Zangetsu112](https://github.com/Zangetsu112)
-6. _Atrik Ray_, that's me!
+8. _Atrik Ray_, that's me!
 	* Available @ [https://github.com/atrikgit6174](https://github.com/atrikgit6174)
-7. _YOU_, the reader, for your time and patience and interest! 😊
+9. _YOU_, the reader, for your time and patience and interest! 😊
 
 ****************************************************************************************************************************************
-<script src="https://gist.github.com/AtrikGit6174/365733ce4de1197f8d057ffa2706f2e7.js"></script>
+<script src="https://gist.github.com/AtrikGit6174/b6274fdd4d03b7beedf11d8d94c3b907.js"></script>
 
 
 &nbsp; &nbsp;
