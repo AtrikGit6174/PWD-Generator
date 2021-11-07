@@ -47,4 +47,10 @@ A lot more testing conditions have been implemented to ease user engagement.
 
 
 &nbsp; &nbsp;
-<p align= "center"><a href="https://github.com/atrikgit6174"><img src= "https://github.com/atrikgit6174.png" width= 200px height= 200px></a></p>
+<br />
+Contributors:
+
+<p align= "center">
+	<a href="https://github.com/atrikgit6174"><img src= "https://github.com/atrikgit6174.png" width= 200px height= 200px></a>
+	<a href="https://github.com/AyushMansen"><img src= "https://github.com/AyushMansen.png" width= 200px height= 200px></a>
+</p>
