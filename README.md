@@ -7,6 +7,8 @@ A personal Python project to generate passwords based on user constraints.
 (Or scroll down and Open In Colab)
 
 Feel free to edit the Google Colab blob, it opens in playground mode, so it doesn't affect the main code.
+<br/>
+Drop in your [reviews and feedbacks](https://github.com/AtrikGit6174/PWD-Generator/issues/new/choose).
 
 Dated: 01.11.2021
 
@@ -28,7 +30,7 @@ A lot more testing conditions have been implemented to ease user engagement.
 
 ## Credits
 1. _Google Colab team_, for their amazing IPython notebook tool!
-2. _Ayushman Sen_, for implementing testing conditions and working on unravelling the GitHub collaborating process. 😄
+2. _Ayushman Sen_, for implementing the testing conditions and working with me on unravelling the GitHub collaborating process. 😄
 	* He is available @ [https://github.com/AyushMansen](https://github.com/AyushMansen)
 4. _Meghna Dutta_, for being the second tester after me and helping me debug, and for her motivation 😄
 	* She is available @ [https://github.com/Meghna180401](https://github.com/Meghna180401)
@@ -51,6 +53,11 @@ A lot more testing conditions have been implemented to ease user engagement.
 Contributors:
 
 <p align= "center">
-	<a href="https://github.com/atrikgit6174"><img src= "https://github.com/atrikgit6174.png" width= 200px height= 200px></a>
-	<a href="https://github.com/AyushMansen"><img src= "https://github.com/AyushMansen.png" width= 200px height= 200px></a>
+		<a href="https://github.com/atrikgit6174">
+			<img src= "https://github.com/atrikgit6174.png" width= 200px height= 200px align="center">
+		</a>
+		<a href="https://github.com/AyushMansen">
+			<img src= "https://github.com/AyushMansen.png" width= 200px height= 200px align="center">
+		</a>
 </p>
+
