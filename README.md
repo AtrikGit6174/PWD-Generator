@@ -8,7 +8,9 @@ A personal Python project to generate passwords based on user constraints.
 
 Feel free to edit the Google Colab blob, it opens in playground mode, so it doesn't affect the main code.
 <br/>
-Drop in your [reviews and feedbacks](https://github.com/AtrikGit6174/PWD-Generator/issues/new/choose).
+Drop in your reviews and feedbacks:
+1. [GitHub - new issue](https://github.com/AtrikGit6174/PWD-Generator/issues/new/choose).
+2. [LinkedIn](https://www.linkedin.com/in/atrikray7171/)
 
 Dated: 01.11.2021
 
