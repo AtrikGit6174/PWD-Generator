@@ -12,7 +12,7 @@ Drop in your reviews and feedbacks:
 1. [GitHub - new issue](https://github.com/AtrikGit6174/PWD-Generator/issues/new/choose).
 2. [LinkedIn](https://www.linkedin.com/in/atrikray7171/)
 
-Dated: 01.11.2021
+Dated: 28.11.2021
 
 This project is brought to you by **[Atrik Ray](https://github.com/AtrikGit6174)**.
 As of now, I am a CSE undergrad, expected to graduate by 2023.
@@ -26,7 +26,8 @@ As of now, I am a CSE undergrad, expected to graduate by 2023.
 Get your required random password.
 
 * Step 4. (Optional) Enter whether or not to scramble your generated password more. Re-entry in case of mistake is allowed.
-* Step 5. (Optional) Enter whether or not to generate more passwords.
+* Step 5. (Optional) Choose whethere or not to save the passowrds in a file on Google Drive. Provision to auto-create a new folder containing the files and append to them.
+* Step 6. (Optional) Enter whether or not to generate more passwords.
 
 A lot more testing conditions have been implemented to ease user engagement.
 
