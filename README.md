@@ -53,7 +53,7 @@ A lot more testing conditions have been implemented to ease user engagement.
 &nbsp; &nbsp;
 <br />
 ## Guidelines for Contributors
-Please read the [CONTRIBUTION.md](Contributing/CONTRIBUTION.md) 
+Please read the [CONTRIBUTING.md](Contributing/CONTRIBUTING.md) 
 
 For any doubts & discussions, contact at: [Issue: Contributors Q&A](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted&template=contributors-q-a.md&title=)
 
