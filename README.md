@@ -30,6 +30,7 @@ Get your required random password.
 * Step 6. (Optional) Enter whether or not to generate more passwords.
 
 A lot more testing conditions have been implemented to ease user engagement.
+Saving to file on Google Drive has been introduced and clear guides have been mentioned in the application for user's perusal.
 
 ## Credits
 1. _Google Colab team_, for their amazing IPython notebook tool!
