@@ -49,16 +49,16 @@ For any doubts & discussions, contact at: [Issue: Contributors Q&A](https://gith
 
 ## Credits
 1. _Google Colab team_, for their amazing IPython notebook tool!
-2. _Ayushman Sen_, for implementing the testing conditions and working with me on unravelling the GitHub collaborating process 😄 @ [https://github.com/AyushMansen](https://github.com/AyushMansen) & [https://www.linkedin.com/in/ayushman-sen-129649213/](https://www.linkedin.com/in/ayushman-sen-129649213/)
-3. _Meghna Dutta_, for being the second tester after me and helping me debug, and for her motivation 😄 @ [https://github.com/Meghna180401](https://github.com/Meghna180401) & [https://www.linkedin.com/in/meghna-dutta-6a39351b2/](https://www.linkedin.com/in/meghna-dutta-6a39351b2/)
-4. _Gayathri MS_, for being a tester and her valuable inputs. She pointed an important bug out. @ [https://github.com/gayathri-ms](https://github.com/gayathri-ms) & [https://www.linkedin.com/in/gayathri-m-s-b4a0691a0/](https://www.linkedin.com/in/gayathri-m-s-b4a0691a0/)
-5. _Jahnvi Seth_, for being a tester and helping me clarify the language for the users. @ [https://github.com/jahnvisethjs](https://github.com/jahnvisethjs) & [https://www.linkedin.com/in/jahnvi-seth/](https://www.linkedin.com/in/jahnvi-seth/)
-6. _Sritama Mitra_, for being a tester and helping me clarify the language for the users. @ [https://www.linkedin.com/in/sritama-mitra-353b911a0/](https://www.linkedin.com/in/sritama-mitra-353b911a0/)
-7. _Saswata Mukherjee_, for being a tester, his incredible ideas and taking time to put them as a structured issue! @ [https://github.com/saswatamcode](https://github.com/saswatamcode) & [https://www.linkedin.com/in/saswatamcode/](https://www.linkedin.com/in/saswatamcode/)
-8. _Manas Sahu_, for being a tester, his valuable inputs and his incredible ideas. @ [https://github.com/Zangetsu112](https://github.com/Zangetsu112) & [https://www.linkedin.com/in/manas-sahu-2208aa1a1/](https://www.linkedin.com/in/manas-sahu-2208aa1a1/)
-9. _Aditya Agarwal_, for being a tester and incredible ideas. @ [https://github.com/suniladityajatni](https://github.com/suniladityajatni) & [https://www.linkedin.com/in/aditya-agarwal-6a6065214/](https://www.linkedin.com/in/aditya-agarwal-6a6065214/)
-10. _Tishya Tripathi_, for being a tester and his valuable inputs @ [https://github.com/tishya-tripathi](https://github.com/tishya-tripathi) & [https://www.linkedin.com/in/tishya-tripathi/](https://www.linkedin.com/in/tishya-tripathi/)
-11. _Atrik Ray_, that's me! @ [https://github.com/atrikgit6174](https://github.com/atrikgit6174) & [https://www.linkedin.com/in/atrikray7171/](https://www.linkedin.com/in/atrikray7171/)
+2. _Ayushman Sen_, for implementing the testing conditions and working with me on unravelling the GitHub collaborating process 😄 @ [GitHub - AyushMansen](https://github.com/AyushMansen) & [LinkedIn - ayushman-sen-129649213](https://www.linkedin.com/in/ayushman-sen-129649213/)
+3. _Meghna Dutta_, for being the second tester after me and helping me debug, and for her motivation 😄 @ [GitHub - Meghna180401](https://github.com/Meghna180401) & [LinkedIn - meghna-dutta-6a39351b2](https://www.linkedin.com/in/meghna-dutta-6a39351b2/)
+4. _Gayathri MS_, for being a tester and her valuable inputs. She pointed an important bug out. @ [GitHub - gayathri-ms](https://github.com/gayathri-ms) & [LinkedIn - gayathri-m-s-b4a0691a0](https://www.linkedin.com/in/gayathri-m-s-b4a0691a0/)
+5. _Jahnvi Seth_, for being a tester and helping me clarify the language for the users. @ [GitHub - jahnvisethjs](https://github.com/jahnvisethjs) & [LinkedIn - jahnvi-seth](https://www.linkedin.com/in/jahnvi-seth/)
+6. _Sritama Mitra_, for being a tester and helping me clarify the language for the users. @ [LinkedIn - sritama-mitra-353b911a0](https://www.linkedin.com/in/sritama-mitra-353b911a0/)
+7. _Saswata Mukherjee_, for being a tester, his incredible ideas and taking time to put them as a structured issue! @ [GitHub - saswatamcode](https://github.com/saswatamcode) & [LinkedIn - saswatamcode](https://www.linkedin.com/in/saswatamcode/)
+8. _Manas Sahu_, for being a tester, his valuable inputs and his incredible ideas. @ [GitHub - Zangetsu112](https://github.com/Zangetsu112) & [LinkedIn - manas-sahu-2208aa1a1](https://www.linkedin.com/in/manas-sahu-2208aa1a1/)
+9. _Aditya Agarwal_, for being a tester and incredible ideas. @ [GitHub - suniladityajatni](https://github.com/suniladityajatni) & [LinkedIn - aditya-agarwal-6a6065214](https://www.linkedin.com/in/aditya-agarwal-6a6065214/)
+10. _Tishya Tripathi_, for being a tester and his valuable inputs @ [GitHub - tishya-tripathi](https://github.com/tishya-tripathi) & [LinkedIn - tishya-tripathi](https://www.linkedin.com/in/tishya-tripathi/)
+11. _Atrik Ray_, that's me! @ [GitHub - atrikgit6174](https://github.com/atrikgit6174) & [LinkedIn - atrikray7171](https://www.linkedin.com/in/atrikray7171/)
 12. _YOU_, the reader, for your time and patience and interest! 😊
 
 ****************************************************************************************************************************************
