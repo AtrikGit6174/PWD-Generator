@@ -31,7 +31,12 @@ Get your required random password.
 A lot more testing conditions have been implemented to ease user engagement.
 Saving to file on Google Drive has been introduced and clear guides have been mentioned in the application for user's perusal.
 
-## Contributors:
+## Guidelines for Contributors
+Please read the [CONTRIBUTING.md](Contributing/CONTRIBUTING.md) 
+
+For any doubts & discussions, contact at: [Issue: Contributors Q&A](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted&template=contributors-q-a.md&title=)
+
+## Contributors
 
 <p align= "center">
 		<a href="https://github.com/atrikgit6174">
