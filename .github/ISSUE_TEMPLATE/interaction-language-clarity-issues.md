@@ -2,7 +2,7 @@
 name: Interaction/Language/Clarity issues
 about: Suggestions to make the instructions clear.
 title: ''
-labels: documentation
+labels: documentation, help wanted, question
 assignees: AtrikGit6174
 
 ---
