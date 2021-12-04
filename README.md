@@ -3,7 +3,7 @@ A personal Python project to generate passwords based on user constraints.
 
 * [GitHub Repo](https://github.com/AtrikGit6174/PWD-Generator)
 * Launched at: [https://atrikgit6174.github.io/PWD-Generator](https://atrikgit6174.github.io/PWD-Generator)
-* [Google Colaboratory](https://colab.research.google.com/github/AtrikGit6174/PWD-Generator/blob/main/PWD_Generator.ipynb)- Click here to use it!
+* <a href="https://colab.research.google.com/github/AtrikGit6174/PWD-Generator/blob/main/PWD_Generator.ipynb" target="_top"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>- Click here to use it!
 
 Feel free to edit the Google Colab blob, it opens in playground mode, so it doesn't affect the main code.
 <br/>
@@ -30,6 +30,12 @@ Get your required random password.
 
 A lot more testing conditions have been implemented to ease user engagement.
 Saving to file on Google Drive has been introduced and clear guides have been mentioned in the application for user's perusal.
+
+<p align="center">
+	<a href="https://colab.research.google.com/github/AtrikGit6174/PWD-Generator/blob/main/PWD_Generator.ipynb" target="_top">
+  		<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+	</a>
+</p>
 
 ## Guidelines for Contributors & Local Downloading
 Please read the [CONTRIBUTING.md](Contributing/CONTRIBUTING.md) 
@@ -62,4 +68,9 @@ For any doubts & discussions, contact at: [Issue: Contributors Q&A](https://gith
 12. _YOU_, the reader, for your time and patience and interest! 😊
 
 ****************************************************************************************************************************************
+<p align="center">
+	<a href="https://colab.research.google.com/github/AtrikGit6174/PWD-Generator/blob/main/PWD_Generator.ipynb" target="_top">
+  		<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+	</a>
+</p>
 <!--script src="https://gist.github.com/AtrikGit6174/b6274fdd4d03b7beedf11d8d94c3b907.js"></script-->
