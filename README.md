@@ -38,7 +38,7 @@ Saving to file on Google Drive has been introduced and clear guides have been me
 </p>
 
 ## Guidelines for Contributors & Local Downloading
-Please read the [CONTRIBUTING.md](https://github.com/AtrikGit6174/PWD-Generator/blob/main/Contributing/README.md) 
+Please read the [Contributing/README.md](https://github.com/AtrikGit6174/PWD-Generator/blob/main/Contributing/README.md) 
 
 For any doubts & discussions, contact at: [Issue: Contributors Q&A](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted&template=contributors-q-a.md&title=)
 
