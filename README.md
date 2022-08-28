@@ -55,7 +55,7 @@ For any doubts & discussions, contact at: [Issue: Contributors Q&A](https://gith
 
 ## Credits
 1. _Google Colab team_, for their amazing IPython notebook tool!
-2. _Ayushman Sen_, for implementing the testing conditions and working with me on unravelling the GitHub collaborating process 😄 @ [GitHub - AyushMansen](https://github.com/AyushMansen) & [LinkedIn - ayushman-sen-129649213](https://www.linkedin.com/in/ayushman-sen-129649213/)
+2. _Ayushman Sen_, for implementing first level of exceptions and working with me on unravelling the GitHub collaborating process 😄 @ [GitHub - AyushMansen](https://github.com/AyushMansen) & [LinkedIn - ayushman-sen-129649213](https://www.linkedin.com/in/ayushman-sen-129649213/)
 3. _Meghna Dutta_, for being my best friend, my forever supporter and staunchest critic, and being the second tester after me and helping me debug, and for her motivation 😄 @ [GitHub - Meghna180401](https://github.com/Meghna180401) & [LinkedIn - meghna-dutta-6a39351b2](https://www.linkedin.com/in/meghna-dutta-6a39351b2/)
 4. _Gayathri MS_, for being a tester and her valuable inputs. She pointed an important bug out. @ [GitHub - gayathri-ms](https://github.com/gayathri-ms) & [LinkedIn - gayathri-m-s-b4a0691a0](https://www.linkedin.com/in/gayathri-m-s-b4a0691a0/)
 5. _Jahnvi Seth_, for being a tester and helping me clarify the language for the users. @ [GitHub - jahnvisethjs](https://github.com/jahnvisethjs) & [LinkedIn - jahnvi-seth](https://www.linkedin.com/in/jahnvi-seth/)
