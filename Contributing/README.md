@@ -14,7 +14,7 @@ Please check other branches already present in the main repo, the issues and the
 7. Make sure to ✅ "Include a link to Colaboratory".
     * This will generate a "Open in Colab" button on TOP of the PWD-Generator.ipynb only, which will open the GColab link to the PWD-Generator.ipynb of your branch.
     * <img src= "OpenInColab.PNG">
-    * For example, the link will lead to https://colab.research.google.com/github/<YOUR GITHUB USERNAME>/PWD-Generator/blob/<YOUR BRANCH NAME>/PWD_Generator.ipynb
+    * For example, the link will lead to `https://colab.research.google.com/github/<YOUR GITHUB USERNAME>/PWD-Generator/blob/<YOUR BRANCH NAME>/PWD_Generator.ipynb`
     * DO NOT CHANGE THE LINK IN THE END OF THE NOTEBOOK.
     * Please keep your link on top of the Notebook to the code of your branch so that your code can also be tested before being accepting and integrating.
 8. Add a good title and description before generating a pull request.
