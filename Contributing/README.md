@@ -29,4 +29,4 @@ For local operations:
 2. Change the directories in subsequent lines.
 3. For local download issues, raise an issue @ [Issues - Local download help](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted%2C+question&template=local-download-help.md&title=)
 
-Report bugs @ [Issues - Technica; Bugs report](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=bug&template=technical-bugs-report.md&title=)
+Report bugs @ [Issues - Technical Bugs report](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=bug&template=technical-bugs-report.md&title=)
