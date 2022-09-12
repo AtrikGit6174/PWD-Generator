@@ -19,6 +19,7 @@ Please check other branches already present in the main repo, the issues and the
     * Please keep your link on top of the Notebook to the code of your branch so that your code can also be tested before being accepting and integrating.
 8. Add a good title and description before generating a pull request.
 9. Modify the Credits portion in the README.md of your PR to include your name and work! 😄✅   
+
 Find constants defined in the `class constant`.
 
 For more doubts and discussions as a contributor, please contact at: [Issues - Contributors Q&A](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted&template=contributors-q-a.md&title=)
