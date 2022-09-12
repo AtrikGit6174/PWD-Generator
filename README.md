@@ -11,22 +11,10 @@ Drop in your reviews and feedbacks:
 1. [GitHub - new issue](https://github.com/AtrikGit6174/PWD-Generator/issues/new/choose).
 2. [LinkedIn](https://www.linkedin.com/in/atrikray7171/)
 
-Dated: 02.12.2021
+Dated: 12 August 2022
 
 This project is brought to you by **[Atrik Ray](https://github.com/AtrikGit6174)**.
 As of now, I am a CSE undergrad, expected to graduate by 2023.
-
-* Step 1. (Required) Enter the number of characters to get started.
-* Step 2. (Optional) Enter a few characters of your choice (they will be scrambled and used in your password)
-	* Checks are provided so that (no. of input chars <= total no. of chars). Re-entry in case of mistake is allowed.
-* Step 3. (Optional) Enter no. of constraints like number of capital letters, small letters, special chars or digits.
-	* Checks are provided so that (no. of constrained chars <= total no. of chars). Re-entry in case of mistake is allowed.
-	
-Get your required random password.
-
-* Step 4. (Optional) Enter whether or not to scramble your generated password more. Re-entry in case of mistake is allowed.
-* Step 5. (Optional) Choose whether or not to save the passowrds in a file on Google Drive. Provision to auto-create a new folder containing the files and append to them.
-* Step 6. (Optional) Enter whether or not to generate more passwords.
 
 A lot more testing conditions have been implemented to ease user engagement.
 Saving to file on Google Drive has been introduced and clear guides have been mentioned in the application for user's perusal.
