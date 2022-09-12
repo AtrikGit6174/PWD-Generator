@@ -20,11 +20,11 @@ Please check other branches already present in the main repo, the issues and the
 8. Add a good title and description before generating a pull request.
 9. Modify the Credits portion in the README.md of your PR to include your name and work! 😄✅   
 
-For more doubts and discussions as a contributor, please contact at: https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted&template=contributors-q-a.md&title=
+For more doubts and discussions as a contributor, please contact at: [Issues - Contributors Q&A](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted&template=contributors-q-a.md&title=)
    
 For local operations:
 1. Remove the Google Drive Mount code in function `save_to_file`
 2. Change the directories in subsequent lines.
-3. For any issues, raise an issue @ https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted%2C+question&template=local-download-help.md&title=
+3. For any issues, raise an issue @ [Issues - Local download help](https://github.com/AtrikGit6174/PWD-Generator/issues/new?assignees=AtrikGit6174&labels=help+wanted%2C+question&template=local-download-help.md&title=)
 
 Find constants defined in the `class constant`.
